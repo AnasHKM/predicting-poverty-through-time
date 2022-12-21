@@ -207,21 +207,5 @@
             "special": false,
             "multiply": false
         }
-    },
-    "UGA": {
-        "2009": {
-            "cons_path": "data/lsms/raw/Uganda/2010/UGA_2005-2009_UNPS_v02_M_CSV/2009/pov2009_10.CSV",
-            "hh_path": "data/lsms/raw/Uganda/2010/UGA_2005-2009_UNPS_v02_M_CSV/2009/",
-            "cons_key": "dtot",
-            "hhsize_key": "hhsize",
-            "lat_key": "LAT_DD_MOD",
-            "lon_key": "LON_DD_MOD",
-            "rural_key": "urbrur",
-            "rural": "2",
-            "urban": "1",
-            "hhid_key": "grappe",
-            "special": false,
-            "multiply": false
-        }
     }
 }
